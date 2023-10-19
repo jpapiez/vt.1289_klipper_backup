@@ -31,6 +31,9 @@ trusted_clients =
 subscriptions = 
 	octoeverywhere
 
+[spoolman]
+server = http://octofarm.local:7912
+
 [update_manager]
 refresh_interval = 168
 enable_auto_refresh = True

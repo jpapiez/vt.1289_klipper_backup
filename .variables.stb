@@ -1,6 +1,6 @@
 [Variables]
 filament = {'index': 1, 'array': [{'bed': 100.0, 'name': 'ABS', 'hotend': 240.0}, {'hotend': 210.0, 'name': 'PLA', 'bed': 60.0}, {'hotend': 250.0, 'name': 'TPU', 'bed': 40.0}, {'hotend': 240.0, 'name': 'PETG', 'bed': 85.0}, {'hotend': 260.0, 'name': 'NYLON', 'bed': 60.0}]}
-filament_loaded = False
+filament_loaded = True
 plates = {'index': 0, 'array': [{'name': 'Smooth', 'offset': 0.0}, {'name': 'Textured', 'offset': -0.09}]}
 pressure_advance = [{'id': 'ABS', 'val': [{'nozzle': 0.4, 'pa': 0.02, 'st': 0.04}]}, {'id': 'ASA', 'val': [{'nozzle': 0.4, 'pa': 0.024, 'st': 0.04}]}]
 

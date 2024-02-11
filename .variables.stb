@@ -3,5 +3,5 @@ filament = {'index': 1, 'array': [{'bed': 100.0, 'name': 'ABS', 'hotend': 240.0}
 filament_loaded = True
 plates = {'index': 0, 'array': [{'name': 'Smooth', 'offset': 0.0}, {'name': 'Textured', 'offset': -0.09}]}
 pressure_advance = [{'id': 'ABS', 'val': [{'nozzle': 0.4, 'pa': 0.02, 'st': 0.04}]}, {'id': 'ASA', 'val': [{'nozzle': 0.4, 'pa': 0.024, 'st': 0.04}]}]
-print_stats = {'time': {'total': 0, 'service': 0, 'filter': 0}, 'filament': 0.0}
+print_stats = {'time': {'total': 16826, 'service': 16826, 'filter': 16826}, 'filament': 14423.882370002862}
 

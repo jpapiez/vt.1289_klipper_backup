@@ -1,3 +1,5 @@
 saved_variables.cfg
-adxl_results/belts/*.csv
-adxl_results/vibrations/*.tar.gz
+adxl_results/**/*
+printer-[0-9]*_[0-9]*.cfg
+ShakeTune_results/**/*
+K-ShakeTune_results/**/*

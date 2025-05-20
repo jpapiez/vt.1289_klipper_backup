@@ -4,5 +4,5 @@ filament_loaded = True
 filament_sensor = {'runout': 0, 'motion': 0}
 plates = {'index': 2, 'array': [{'name': 'Smooth', 'offset': 0.0}, {'name': 'Textured', 'offset': -0.09}, {'name': 'HB-DualSatin', 'offset': 0.0}]}
 pressure_advance = [{'id': 'ABS', 'val': [{'nozzle': 0.4, 'pa': 0.02, 'st': 0.04}]}, {'id': 'ASA', 'val': [{'nozzle': 0.4, 'pa': 0.024, 'st': 0.04}]}]
-print_stats = {'time': {'total': 2734803, 'service': 2734803, 'filter': 2734803}, 'filament': 4068603.9960582904}
+print_stats = {'time': {'total': 2738111, 'service': 2738111, 'filter': 2738111}, 'filament': 4070228.04491829}
 
